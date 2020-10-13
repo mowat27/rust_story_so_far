@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-  unsigned int a[3];
+  int a[3];
 
   for(int i=0; i<2; ++i) {
     a[i] = i;
