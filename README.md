@@ -10,10 +10,14 @@ Adrian says: “I had a lot of time on my hands during lockdown and I decided to
 
 ## Links
 
-Install Rust and Cargo: https://rustup.rs/
+**Install Rust and Cargo:* https://rustup.rs/
 
-Rust Homepage: https://www.rust-lang.org/
+**Rust Homepage:** https://www.rust-lang.org/
 
-Live Coding a Web Assembly Runtime: https://youtu.be/VUT386_GKI8
+**Live Coding a Web Assembly Runtime:** https://youtu.be/VUT386_GKI8
 
-The last link is a talk given by David Beazley where he live codes a stack machine in Python and uses it to run a game written in Rust and compiled to Web Assembly.
+This is a talk given by David Beazley where he live codes a stack machine in Python and uses it to run a game written in Rust and compiled to Web Assembly.
+
+**Rocket Game:** https://aochagavia.github.io/blog/rocket---a-rust-game-running-on-wasm/ and https://github.com/aochagavia/rocket_wasm
+
+This game is written in Rust and runs in the browser using WebAssembly.  It uses an older version of the rust WebAssembly toolchain :warning: so it may be tricky to run the code yourself.
