@@ -20,4 +20,4 @@ This is a talk given by David Beazley where he live codes a stack machine in Pyt
 
 **Rocket Game:** https://aochagavia.github.io/blog/rocket---a-rust-game-running-on-wasm/ and https://github.com/aochagavia/rocket_wasm
 
-This game is written in Rust and runs in the browser using WebAssembly.  It uses an older version of the rust WebAssembly toolchain :warning: so it may be tricky to run the code yourself.
+This game is written in Rust and runs in the browser using WebAssembly.  :warning:  It uses an older version of the rust WebAssembly toolchain so it may be tricky to run the code yourself.
