@@ -14,6 +14,8 @@ Adrian says: “I had a lot of time on my hands during lockdown and I decided to
 
 **Rust Homepage:** https://www.rust-lang.org/
 
+**Ripgrep:** https://github.com/BurntSushi/ripgrep
+
 **Live Coding a Web Assembly Runtime:** https://youtu.be/VUT386_GKI8
 
 This is a talk given by David Beazley where he live codes a stack machine in Python and uses it to run a game written in Rust and compiled to Web Assembly.
